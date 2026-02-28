@@ -10,9 +10,10 @@ Bem-vindo ao meu GitHub! Minha jornada profissional é construída na intersecç
 
 ### 🚀 Sobre Mim
 
-- 🏭 Tenho vivência prática no chão de fábrica e em operações de estoque, o que me dá uma visão realista sobre gargalos e oportunidades de melhoria contínua.
-- 💻 Desenvolvo projetos autônomos unindo programação e engenharia.
-- 📈 **Áreas de interesse:** Otimização de processos, análise de dados de vendas (com foco em e-commerce), automação (RPA), contabilidade de custos/análise financeira e o impacto de políticas ambientais no desenvolvimento econômico.
+- 🏭 Tenho vivência prática no chão de fábrica e em operações de estoque como conferente, o que me dá uma visão realista sobre gargalos logísticos e oportunidades de melhoria contínua.
+- 💻 Desenvolvo projetos autônomos unindo programação e engenharia para otimizar rotinas operacionais.
+- 🎯 **Busca Atual:** Estou em transição de carreira e busco oportunidades como **Analista de Logística**, **Analista de PCP (Planejamento e Controle da Produção)** ou **Assistente Administrativo em Logística**.
+- 🚀 **Visão de Futuro:** Após a formação em Engenharia de Produção, meu objetivo é assumir cargos de liderança (como Supervisão ou Coordenação) e atuar estrategicamente na integração entre **logística, supply chain e tecnologia** (aplicando análise de dados e automação).
 - 🤝 Valorizo muito o trabalho em equipe, o compartilhamento de conhecimento e encaro desafios como a melhor forma de crescer profissionalmente.
 
 ---
