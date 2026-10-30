@@ -4,7 +4,7 @@
 
 Bem-vindo ao meu GitHub! Minha jornada profissional é construída na intersecção entre a **prática da operação logística**, a **visão estratégica da Engenharia de Produção** e o **poder de inovação da Tecnologia**. Meu grande objetivo é utilizar análise de dados e automação para otimizar processos, reduzir custos e criar soluções eficientes para problemas reais.
 
-🔗 **Confira meu Portfólio Completo:** [thiagotrindade29.github.io/trindadeportifolio](https://thiagotrindade29.github.io/trindadeportifolio/)
+🔗 **Confira meu Portfólio Completo:** [thiagotrindade29.github.io/trindadeportifolio](meu-portifolio-nine-neon.vercel.ap)
 
 ---
 
